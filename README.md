@@ -1,3 +1,5 @@
+官方代码解读见 https://jangirrishabh.github.io/toyCarIRL/
+
 **Reinforcement learning (RL)** is is the very basic and most intuitive form of trial and error learning, it is the way by which most of the living organisms with some form of thinking capabilities learn. Often referred to as learning by exploration, it is the way by which a new born human baby learns to take its first steps, that is by taking random actions initially and then slowly figuring out the actions which lead to the forward walking motion. 
 
 > Note, this post assumes a good understanding of the Reinforcement learning framework, please make yourself familiar with RL through week 5 and 6 of this awesome online course [AI_Berkeley](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x).
